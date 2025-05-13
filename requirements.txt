@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+pandas
+qrcode[pil]
+opencv-python
+Pillow
+PyJWT
