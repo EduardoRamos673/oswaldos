@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 
 # --- Configuración ---
 # Obtener la URL completa de la base de datos desde una variable de entorno
-DATABASE_URL_ENV = os.environ.get("postgresql://postgres.lqdsgwoeszsbqtlasxvt:Ramos1298%40@aws-0-us-east-2.pooler.supabase.com:6543/postgres")
+DATABASE_URL_ENV = os.environ.get("postgresql://postgres.lqdsgwoeszsbqtlasxvt:Ramos1298%40@aws-0-us-east-2.pooler.supabase.com:5432/postgres")
 
 # --- Conexión con la base de datos ---
 def obtener_conexion():
