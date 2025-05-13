@@ -2,6 +2,7 @@ streamlit
 psycopg2-binary
 pandas
 qrcode[pil]
-opencv-python
+opencv-python 
 Pillow
 PyJWT
+python-dotenv  
